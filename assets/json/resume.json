@@ -8,7 +8,7 @@
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
+      "address": "Lyshojgärdsvej 99",
       "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
@@ -151,13 +151,23 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Danish",
+      "fluency": "M. 2",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Elementary",
       "icon": ""
     }
   ],
